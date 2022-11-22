@@ -1,0 +1,74 @@
+[
+  {
+    "Aircraft Information": [
+      {
+        "AircraftNo": "111",
+        "TaskInfo": "CAR-WIT-CAR",
+        "LastMaint": "20JUN22",
+        "NextMaint": "15JAN23",
+        "ETD": "1500",
+        "ETA": "1930",
+        "FuelCap": "3500",
+        "ATD": "1545",
+        "ATA": "2130",
+        "Comments": "Delayed due to no kit available from XXX"
+      },
+      {
+        "AircraftNo": "233",
+        "TaskInfo": "SPA-GER-SPAR",
+        "LastMaint": "17SEP22",
+        "NextMaint": "17MAR23",
+        "ETD": "0800",
+        "ETA": "2100",
+        "FuelCap": "2857",
+        "ATD": "0815",
+        "ATA": "2118",
+        "Comments": "Delayed due to airfield obstruction"
+      },
+      {
+        "AircraftNo": "455",
+        "TaskInfo": "BZZ-AKA-BZZ",
+        "LastMaint": "17SEP21",
+        "NextMaint": "17MAR24",
+        "ETD": "2200",
+        "ETA": "0300",
+        "FuelCap": "3557",
+        "ATD": "02215",
+        "ATA": "0325",
+        "Comments": "Delayed due to airfield obstruction"
+      }
+    ]
+  },
+  {
+    "Estate Management Information": [
+      {
+        "Period": "0122",
+        "KWH": "1259",
+        "MWH": "352",
+        "CO2e": "13258",
+        "Cost": "500"
+      },
+      {
+        "Period": "0222",
+        "KWH": "1259",
+        "MWH": "352",
+        "CO2e": "13258",
+        "Cost": "500"
+      },
+      {
+        "Period": "0322",
+        "KWH": "1259",
+        "MWH": "352",
+        "CO2e": "13258",
+        "Cost": "500"
+      },
+      {
+        "Period": "0422",
+        "KWH": "1259",
+        "MWH": "352",
+        "CO2e": "13258",
+        "Cost": "500"
+      }
+    ]
+  }
+]
